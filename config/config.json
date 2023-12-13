@@ -1,8 +1,11 @@
-
 {
     "version": "0.0.1",
-    "urls":{
-        "help": "http://localhost:3000/help",
-        "update": "http://localhost:3000/update"
+    "name": "Teleprotect - Protect your privacy",
+    "description": "Teleprotect is a simple application to protect your privacy.",
+    "author": "Dev Phạm",
+    "urls": {
+        "base": "https://raw.githubusercontent.com/devwalker-cmyk/Telegram-AT-PL/main/config/config.json",
+        "help": "help",
+        "update": "update"
     }
 }
